@@ -1,0 +1,1 @@
+var o=`/`;async function t(e){let r=e.url;try{await e.navigateByUrl(o)}catch{}return e.url!==r?!0:(location.replace(o),!1)}export{t};

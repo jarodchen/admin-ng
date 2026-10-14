@@ -1,0 +1,1 @@
+import{Ht as Wb,Nr as pw,O as Fl,mt as Pl}from"./chunk-DQUUosVY.js";var a=class n{static{this.ɵfac=function(e){return new(e||n)}}static{this.ɵcmp=pw({type:n,selectors:[[`app-demo-hidden-index`]],decls:2,vars:0,consts:[[2,`padding`,`16px`]],template:function(e,s){e&1&&(Pl(0,`div`,0),Wb(1,`隐藏元素演示页`),Fl())},encapsulation:2})}};export{a as DemoHiddenIndex};

@@ -1,0 +1,1 @@
+import{h as D}from"./chunk-DQUUosVY.js";import{Wt as o}from"./main-YVIAVPBF.js";import{i as q}from"./chunk-Bs9rYeIx.js";var s=`report`;var p=`summary`;function y(){let a=D(o),r=!1,e=q({domain:s,action:p,params:()=>({}),load:()=>(r=!1,a.summary()),skipCache:()=>r});return{resource:e,refresh(){r=!0,e.reload()}}}export{y as t};
