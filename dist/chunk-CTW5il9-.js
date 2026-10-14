@@ -1,0 +1,1 @@
+import{h as D,r as $e}from"./chunk-DQUUosVY.js";import{p as Ce,rn as r}from"./main-7VRVVPQI.js";function p(){let e=D(r),o=$e({pageNum:1,pageSize:10});return{query:o,resource:Ce({params:o,stream:({params:r})=>e.definitions(r)})}}function W(){let e=D(r),o=$e({pageNum:1,pageSize:10});return{query:o,resource:Ce({params:o,stream:({params:r})=>e.tasks(r)})}}export{p as n,W as t};
